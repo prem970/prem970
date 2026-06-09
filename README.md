@@ -4,11 +4,13 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=prem970&label=Profile+Views&color=70a5fd&style=flat-square)](https://github.com/prem970)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Prem_P-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/prem-p-8b709a32a/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Prem_P-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prem-p-8b709a32a/)
 &nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-premp.aiml2024-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:premp.aiml2024@kitcbe.ac.in)
 &nbsp;
 [![LeetCode](https://img.shields.io/badge/LeetCode-1563_Rating-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/__Prem__P__)
+&nbsp;
+[![CodeChef](https://img.shields.io/badge/CodeChef-1458_Rating-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/YOUR_CODECHEF_USERNAME)
 &nbsp;
 [![Codeforces](https://img.shields.io/badge/Codeforces-1056_Rating-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/kit28.24bam048)
 
