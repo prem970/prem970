@@ -1,223 +1,288 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Prem%20P&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20·%20Computer%20Vision%20Developer%20·%20Agentic%20AI%20Builder&descSize=16&descAlignY=62"/>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Prem%20P&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%2FML%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Competitive%20Programmer&descAlignY=62&descSize=16)
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=prem970&label=Profile+Views&color=70a5fd&style=for-the-badge"/>
-
-<a href="https://www.linkedin.com/in/prem-p-8b709a32a">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:premp.aiml2024@kitcbe.ac.in">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/prem970">
-<img src="https://img.shields.io/badge/GitHub-prem970-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3500&pause=1200&color=70A5FD&center=true&vCenter=true&width=800&lines=Building+AI+Systems+for+Real+World+Problems;Computer+Vision+%7C+GenAI+%7C+RAG;4x+Hackathon+Winner;550%2B+LeetCode+Problems+Solved;Future+Agentic+AI+Engineer"/>
+[![Profile Views](https://komarev.com/ghpvc/?username=prem970&label=Profile+Views&color=70a5fd&style=flat-square)](https://github.com/prem970)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Prem_P-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prem-p-8b709a32a/)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-premp.aiml2024-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:premp.aiml2024@kitcbe.ac.in)
+&nbsp;
+[![LeetCode](https://img.shields.io/badge/LeetCode-1563_Rating-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/__Prem__P__)
+&nbsp;
+[![CodeChef](https://img.shields.io/badge/CodeChef-1458_Rating-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/YOUR_CODECHEF_USERNAME)
+&nbsp;
+[![Codeforces](https://img.shields.io/badge/Codeforces-1056_Rating-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/kit28.24bam048)
 
 </div>
 
-## ⚡ Identity Core
+<br/>
 
-<table>
-<tr>
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!--  SECTION 2 │ TYPING HEADER                                                     -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-<td width="55%">
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Building+AI+for+the+Real+World;AI%2FML+Engineer+%7C+Full+Stack+Dev;4x+Hackathon+Winner+%7C+Gen+AI+Intern;LeetCode+Top+31.86%25+%7C+550%2B+Problems+Solved)](https://git.io/typing-svg)
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!--  SECTION 3 │ CODE-BLOCK ABOUT ME                                              -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
+<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ```python
+# about_prem.py ────────────────────────────────────────────────────────
+
 class PremP:
+    def __init__(self):
+        self.name               = "Prem P"
+        self.location           = "Coimbatore, India  🇮🇳"
+        self.degree             = "B.E. CSE (AI & ML) @ KIT-CBE  •  CGPA 8.2"
+        self.role               = "Gen AI Intern  @  ULTRATEND"
+        self.stack              = ["Python", "React.js", "Node.js",
+                                   "PostgreSQL", "MongoDB", "Flutter"]
+        self.ai_ml              = ["YOLOv8", "ResNet50", "LangChain",
+                                   "RAG", "LLMs", "OpenCV"]
+        self.currently_learning = ["LLM Fine-tuning", "MLOps",
+                                   "Advanced System Design"]
+        self.fun_fact           = "Debugged a neural net for 4 hrs... wrong lr 😅"
 
-    location = "Coimbatore, India 🇮🇳"
+    def motto(self) -> str:
+        return "⚡  Build fast. Break things. Learn faster. Repeat."
 
-    education = """
-    B.E CSE (AI & ML)
-    KIT-CBE
-    CGPA: 8.2
-    """
+    def say_hi(self):
+        print("Thanks for visiting! Let's build something incredible  🚀")
 
-    focus = [
-        "Computer Vision",
-        "Generative AI",
-        "RAG Systems",
-        "Agentic AI",
-        "Full Stack Development"
-    ]
+me = PremP()
+me.say_hi()
+```
 
-    currently_building = [
-        "Multi-Agent Systems",
-        "Production RAG Pipelines",
-        "LLM Fine-Tuning"
-    ]
+<br clear="right"/>
 
-    mission = """
-    Build AI systems that
-    see, reason and automate.
-    """
+<br/>
 
-    </td> <td width="45%">
-    ╔══════════════════════════════╗
-║      PREM-OS v2.0           ║
-╠══════════════════════════════╣
-║ AI Layer         ONLINE     ║
-║ Vision Layer     ONLINE     ║
-║ RAG Engine       ONLINE     ║
-║ Full Stack       ONLINE     ║
-║ DSA Engine       ACTIVE     ║
-╠══════════════════════════════╣
-║ Status: BUILDING 🚀         ║
-╚══════════════════════════════╝
-</td> </tr> </table> ```
-## 🧠 Engineering Mindset
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!--  SECTION 4 │ TECH BADGES                                                      -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-```mermaid
-graph LR
+## 🛠️ Tech Stack
 
-A["📷 Computer Vision"]
-B["📚 RAG Systems"]
-C["🧠 LLMs"]
-D["🤖 Agents"]
-E["⚡ Automation"]
+**🔤 Languages**
 
-A --> C
-B --> C
-C --> D
-D --> E
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**🧩 Frameworks & Libraries**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+**🤖 AI / ML & Automation**
+
+![RAG](https://img.shields.io/badge/RAG-FF6F00?style=flat-square&logo=semanticweb&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=yolo&logoColor=black)
+![N8N](https://img.shields.io/badge/N8N-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+
+**☁️ Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**🗄️ Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 ---
 
-# TECH STACK
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!--  SECTION 5 & 6 │ GITHUB STATS + TOP LANGUAGES (side by side)                 -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-Use skillicons instead of dozens of badges.
-
-```md
-## 🛠️ Tech Arsenal
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript,react,nodejs,express,mongodb,postgres,flutter,aws,git,github&perline=7"/>
-
-</div>
-
-### 🤖 AI & ML
-
-- YOLOv8
-- CNN
-- ResNet50
-- OpenCV
-- LangChain
-- RAG
-- LLMs
-- N8N
-- Agentic AI
-
-## 📊 GitHub Dashboard
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prem970&theme=tokyonight" />
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prem970&theme=tokyonight" height="180"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=prem970&theme=tokyonight" height="180"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=prem970&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/prem970">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=prem970&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+</a>
+<a href="https://github.com/prem970">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prem970&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+</a>
 
 </div>
 
-## 💼 Experience
+<br/>
 
-### 🏢 ULTRATEND — Gen AI Intern
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!--  SECTION 7 │ STREAK STATS                                                     -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-Apr 2026 – Present
+<div align="center">
 
-- Built AI-powered email outreach automation systems
-- Automated lead engagement workflows
-- Designed N8N orchestration pipelines
-- Developed autonomous prospecting workflows
-- Integrated LLMs into production automation systems
+[![GitHub Streak](https://streak-stats.demolab.com?user=prem970&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://streak-stats.demolab.com?user=prem970)
 
-**Tech Used**
+</div>
 
-Python • LangChain • N8N • RAG • LLMs
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!--  SECTION 8 │ ACTIVITY GRAPH                                                   -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prem970&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/prem970)
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!--  SECTION 9 │ TROPHY WALL                                                      -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=prem970&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/prem970)
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!--  SECTION 10 │ WORK EXPERIENCE                                                 -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
+## 💼 Work Experience
+
+<details>
+<summary>
+  <b>🏢 ULTRATEND &nbsp;—&nbsp; Gen AI Intern &nbsp;|&nbsp; Apr 2026 – Present &nbsp;|&nbsp; Remote, India</b>
+</summary>
+
+<br/>
+
+> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+> ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+> ![LLMs](https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white)
+> ![N8N](https://img.shields.io/badge/N8N-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+> ![RAG](https://img.shields.io/badge/RAG-FF6F00?style=flat-square&logo=semanticweb&logoColor=white)
+
+- 🤖 Built an **AI-powered email outreach automation pipeline** using LLMs to generate hyper-personalized emails from prospect data and company context.
+- 📧 **Automated end-to-end lead engagement workflows** — reducing manual outreach effort and significantly boosting pipeline throughput.
+- 🔗 Designed and deployed **multi-step N8N automation flows** to orchestrate lead ingestion, data enrichment, and follow-up sequences seamlessly.
+- 📈 Delivered a fully autonomous cold-outreach system covering the complete funnel — from lead sourcing through automated reply handling.
+
+</details>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!--  SECTION 11 │ FEATURED PROJECTS                                               -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
 ## 🚀 Featured Projects
 
-| Project | Stack | Highlights |
-|----------|----------|----------|
-| 🎯 Smart Face Attendance System | YOLOv8 · CNN · ResNet50 · OpenCV | Real-time face recognition with automated attendance |
-| 🌾 Precision Farming Assistant | RAG · N8N · MongoDB · Flutter | AI assistant for farmers using PDFs and knowledge retrieval |
-| 📚 E-Learning Platform | React · Node.js · PostgreSQL | Full-stack learning management platform |
-| 🤖 AI Outreach Automation | LLMs · N8N · LangChain | Personalized email generation and lead automation |
-| 🚀 OrgOS (Upcoming) | Multi-Agent AI | AI Operating System for Organizations |
-
-## 🏁 Competitive Programming
-
-```mermaid
-xychart-beta
-title "Platform Ratings"
-x-axis ["LeetCode","CodeChef","Codeforces"]
-y-axis "Rating" 1000 --> 1700
-bar [1563,1505,1056]
-
----
-
-# ACHIEVEMENTS
-
-```md
-## 🏆 Achievements
-
-🥇 Hack Smart Hackathon — 1st Prize
-
-🥇 Code Wars 2.0 — 1st Prize
-
-🥇 Code It — 1st Prize
-
-🥇 Vibecode Arena — 1st Prize
-
-☁️ AWS Cloud Practitioner
-
-☕ NPTEL Programming in Java (Silver + Elite)
-
-🤖 Google AI Professional Certificate
-## 🔬 Current Experiments
-
-```mermaid
-flowchart LR
-
-A["🤖 Multi-Agent Systems"]
-B["🧠 LLM Fine-Tuning"]
-C["📚 Production RAG"]
-D["🏢 OrgOS"]
-
-A --> D
-B --> D
-C --> D
-
----
-
-# FOOTER
-
-```md
 <div align="center">
 
-"Build fast. Learn faster. Repeat."
-
-<br/><br/>
-
-AI Engineer • Computer Vision Developer • Agentic AI Builder
-
-<br/><br/>
-
-⭐ If you like my projects, feel free to explore my repositories.
+| Project | Stack | Highlights |
+|:--------|:------|:-----------|
+| [**🎯 Smart Face Attendance System**](https://github.com/prem970/smart-face-attendance-system) | `Python` · `OpenCV` · `YOLOv8` · `CNN` · `ResNet50` | ResNet50 face embeddings + YOLOv8 real-time face detection · Live video streaming · Automatic attendance marking · Full historical tracking |
+| [**📚 E-Learning Platform**](https://github.com/prem970/Odoo/tree/main) | `React` · `Node.js` · `Express` · `PostgreSQL` | Responsive UI for learners & instructors · Relational PostgreSQL schemas for courses, users & activity logs · Cloud-hosted DB · Automated email notifications via N8N |
+| [**🌾 Precision Farming Assistant**](https://github.com/prem970/Agro) | `React` · `N8N` · `MongoDB` · `Flutter` | RAG-powered chatbot for context-aware farming advice · N8N workflow automation for data pipelines & APIs · PDF & database knowledge retrieval · Crop management, soil health & irrigation recommendations |
 
 </div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!--  SECTION 12 │ ACHIEVEMENTS & COMPETITIVE PROGRAMMING                          -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
+## 🎖️ Achievements & Competitive Programming
+
+<div align="center">
+
+| 🏅 | Achievement | Details |
+|:--:|:------------|:--------|
+| 🥇 | **Hack Smart Hackathon — 1st Prize** | 36-hour hackathon conducted at KIT-CBE |
+| 🥇 | **Code Wars 2.0 — 1st Prize** | Park College of Engineering & Technology |
+| 🥇 | **Code It — 1st Prize** | Sri RamaKrishna Institute of Technology |
+| 🥇 | **Vibecode Arena — 1st Prize** | New Challenge Creator Category |
+| 💻 | **LeetCode** | Max Rating **1600** · **550+** solved · Top **31.86%** globally · Highest Rank **#6,934** · 3 Badges |
+| ⚡ | **Codeforces** | Max Rating **1056** · **25** problems · Highest Rank **#3,238** (Round 1075 Div. 2) |
+| 🍴 | **CodeChef** | Max Rating **1505** · ⭐⭐ · **650+** problems · Highest Rank **#1,083** (Starters 221 Div. 3) · Global **#42,147** |
+| ☁️ | **AWS Certified Cloud Practitioner** | Amazon Web Services · 2025 |
+| ☕ | **NPTEL — Programming in Java** | Silver + Elite · 2025 |
+| 🐍 | **NPTEL — Problem Solving using C** | 2025 |
+| 🔷 | **Deloitte Technology Job Simulation** | 2025 |
+| 🤖 | **Google AI Professional Certificate** | 2026 |
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!--  SECTION 13 │ EDUCATION + CURRENTLY LEARNING + FOOTER                        -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
+## 🎓 Education
+
+<div align="center">
+
+| Degree | Institution | Year | Score |
+|:-------|:-----------|:----:|:-----:|
+| **B.E. CSE — Artificial Intelligence & Machine Learning** | KIT-Kalaignarkarunanidhi Institute of Technology, Coimbatore | 2024 – 2028 | **8.2 / 10.0 CGPA** |
+
+</div>
+
+---
+
+## 📚 Currently Learning
+
+```
+🧠  LLM Fine-tuning       →  LoRA · QLoRA · PEFT · instruction tuning
+🏗️  MLOps                 →  Docker · CI/CD for ML · model serving · monitoring
+⚙️  System Design          →  distributed systems · caching · load balancing
+☁️  Advanced AWS           →  SageMaker · Lambda · ECS for ML workloads
+📊  Data Engineering       →  Apache Spark · Airflow · pipeline orchestration
+```
+
+---
+
+<div align="center">
+
+*"The best time to plant a tree was 20 years ago. The second best time is now."*
+<br/>
+<b>Let's connect and build the future together! 🚀</b>
+
+<br/><br/>
+
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prem-p-8b709a32a/)
+&nbsp;
+[![Email](https://img.shields.io/badge/Drop%20a%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:premp.aiml2024@kitcbe.ac.in)
+
+</div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling)
