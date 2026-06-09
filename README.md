@@ -44,7 +44,7 @@ class PremP:
         self.name               = "Prem P"
         self.location           = "Coimbatore, India  🇮🇳"
         self.degree             = "B.E. CSE (AI & ML) @ KIT-CBE  •  CGPA 8.2"
-        self.role               = "Gen AI Intern  @  ULTATEND"
+        self.role               = "Gen AI Intern  @  ULTRATEND"
         self.stack              = ["Python", "React.js", "Node.js",
                                    "PostgreSQL", "MongoDB", "Flutter"]
         self.ai_ml              = ["YOLOv8", "ResNet50", "LangChain",
@@ -178,7 +178,7 @@ me.say_hi()
 
 <details>
 <summary>
-  <b>🏢 ULTATEND &nbsp;—&nbsp; Gen AI Intern &nbsp;|&nbsp; Apr 2026 – Present &nbsp;|&nbsp; Remote, India</b>
+  <b>🏢 ULTRATEND &nbsp;—&nbsp; Gen AI Intern &nbsp;|&nbsp; Apr 2026 – Present &nbsp;|&nbsp; Remote, India</b>
 </summary>
 
 <br/>
