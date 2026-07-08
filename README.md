@@ -8,7 +8,6 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=prem970&label=Profile+Views&color=70a5fd&style=flat-square)](https://github.com/prem970)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Prem_P-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prem-p-8b709a32a/)
 [![Gmail](https://img.shields.io/badge/Gmail-premp.aiml2024-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:premp.aiml2024@kitcbe.ac.in)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-111827?style=flat-square&logo=vercel&logoColor=white)](#)
 
 </div>
 
@@ -40,23 +39,23 @@ AWS • Git/GitHub • PostgreSQL • MongoDB
 
 ---
 
-## 📈 Competitive Programming (Live)
+## 🏁 Competitive Programming
 
 <div align="center">
 
-### LeetCode
-[![LeetCode Profile](https://img.shields.io/badge/LeetCode-Visit_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/prem970/)
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/prem970?theme=dark&font=Karma&ext=contest)
-
-### CodeChef
-[![CodeChef Profile](https://img.shields.io/badge/CodeChef-Visit_Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/prem970)
-
-![CodeChef Stats](https://cp-logo.vercel.app/codechef/prem970)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/__Prem__P__)
+[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/kit28aiml048)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/kit28.24bam048)
 
 </div>
 
-> ✅ The sections above are **live widgets** and auto-refresh as your profile stats change.
+### LeetCode (Live)
+![LeetCode Stats](https://leetcard.jacoblin.cool/__Prem__P__?theme=dark&font=Karma&ext=contest)
+
+### CodeChef (Live)
+![CodeChef Stats](https://cp-logo.vercel.app/codechef/kit28aiml048)
+
+> ✅ Profile links are mapped exactly to the URLs you provided.
 
 ---
 
@@ -74,8 +73,6 @@ AWS • Git/GitHub • PostgreSQL • MongoDB
 [![GitHub Streak](https://streak-stats.demolab.com?user=prem970&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E)](https://git.io/streak-stats)
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prem970&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/prem970)
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=prem970&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/prem970)
 
 </div>
 
@@ -98,7 +95,7 @@ AWS • Git/GitHub • PostgreSQL • MongoDB
 
 ---
 
-## 🏅 Highlights
+## 🏆 Achievements
 
 - 🥇 Hack Smart Hackathon — 1st Prize
 - 🥇 Code Wars 2.0 — 1st Prize
