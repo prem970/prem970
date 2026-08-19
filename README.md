@@ -8,11 +8,11 @@
 &nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-premp.aiml2024-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:premp.aiml2024@kitcbe.ac.in)
 &nbsp;
-[![LeetCode](https://img.shields.io/badge/LeetCode-1563_Rating-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/__Prem__P__)
+[![LeetCode](https://img.shields.io/badge/LeetCode-1720_Rating-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/__Prem__P__)
 &nbsp;
-[![CodeChef](https://img.shields.io/badge/CodeChef-1458_Rating-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/YOUR_CODECHEF_USERNAME)
+[![CodeChef](https://img.shields.io/badge/CodeChef-1552_Rating-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/kit28aiml048)
 &nbsp;
-[![Codeforces](https://img.shields.io/badge/Codeforces-1056_Rating-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/kit28.24bam048)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1241_Rating-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/kit28.24bam048)
 
 </div>
 
