@@ -150,7 +150,7 @@ me.say_hi()
 
 <div align="center">
 
-[![Prem's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=prem970&theme=github-compact&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true&custom_title=Prem%20P%20%E2%80%94%20Contribution%20Graph&cache_seconds=86400)](https://github.com/prem970)
+![Prem's GitHub contribution chart](https://ghchart.rshah.org/70a5fd/prem970)
 
 </div>
 
