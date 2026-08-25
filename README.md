@@ -150,7 +150,7 @@ me.say_hi()
 
 <div align="center">
 
-![Prem's GitHub contribution chart](https://ghchart.rshah.org/70a5fd/prem970)
+[![Prem's github activity graph](https://github.pumbas.net/api/contributions/prem970?colour=70a5fd&bgColour=0d1117&dotColour=bf91f3)](https://github.com/prem970)
 
 </div>
 
