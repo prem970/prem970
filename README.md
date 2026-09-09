@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Prem%20P&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%2FML%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Competitive%20Programmer&descAlignY=62&descSize=16)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Prem%20P&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%2F%20ML%20Engineer&descAlignY=51&descSize=18)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=prem970&label=Profile+Views&color=70a5fd&style=flat-square)](https://github.com/prem970)
 &nbsp;
@@ -18,21 +18,21 @@
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════[...]-->
 <!--  SECTION 2 │ TYPING HEADER                                                     -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════[...]-->
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Building+AI+for+the+Real+World;AI%2FML+Engineer+%7C+Full+Stack+Dev;3x+Hackathon+Winner+%7C+Gen+AI+Intern;LeetCode+Top+12.42%25+%7C+650%2B+Problems+Solved)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Building+AI+for+the+Real+World;AI%2FML+%7C+GenAI+%7C+Automation;Turning+Ideas+Into+Products)](https://git.io/typing-svg)
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════[...]-->
 <!--  SECTION 3 │ CODE-BLOCK ABOUT ME                                              -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════[...]-->
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
@@ -67,9 +67,9 @@ me.say_hi()
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════[...]-->
 <!--  SECTION 4 │ TECH BADGES                                                      -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════[...]-->
 
 ## 🛠️ Tech Stack
 
@@ -113,40 +113,40 @@ me.say_hi()
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════[...]-->
 <!--  SECTION 5 & 6 │ GITHUB STATS + TOP LANGUAGES (side by side)                 -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════[...]-->
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
 <a href="https://github.com/prem970">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=prem970&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=prem970&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9" />
 </a>
 <a href="https://github.com/prem970">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prem970&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prem970&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9" />
 </a>
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════[...]-->
 <!--  SECTION 7 │ STREAK STATS                                                     -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════[...]-->
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=prem970&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://streak-stats.demolab.com?user=prem970)
+[![GitHub Streak](https://streak-stats.demolab.com?user=prem970&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=FFFFFF)](https://git.io/streak-stats)
 
 </div>
 
 <br/>
 
-<!-- ═════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════[...]-->
 <!--  SECTION 8 │ ACTIVITY GRAPH                                     -->
-<!-- ═════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════[...]-->
 
 <div align="center">
 
@@ -154,9 +154,9 @@ me.say_hi()
 
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════[...]-->
 <!--  SECTION 9 │ TROPHY WALL                                                      -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════[...]-->
 
 ## 🏆 GitHub Trophies
 
@@ -168,9 +168,9 @@ me.say_hi()
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════[...]-->
 <!--  SECTION 10 │ WORK EXPERIENCE                                                 -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════[...]-->
 
 ## 💼 Work Experience
 
@@ -196,9 +196,9 @@ me.say_hi()
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════[...]-->
 <!--  SECTION 11 │ FEATURED PROJECTS                                               -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════[...]-->
 
 ## 🚀 Featured Projects
 
@@ -206,48 +206,112 @@ me.say_hi()
 
 | Project | Stack | Highlights |
 |:--------|:------|:-----------|
-| [**🎯 Smart Face Attendance System**](https://github.com/prem970/smart-face-attendance-system) | `Python` · `OpenCV` · `YOLOv8` · `CNN` · `ResNet50` | ResNet50 face embeddings + YOLOv8 real-time face detection · Live video streaming · Automatic attendance marking · Full historical tracking |
-| [**📚 E-Learning Platform**](https://github.com/prem970/Odoo/tree/main) | `React` · `Node.js` · `Express` · `PostgreSQL` | Responsive UI for learners & instructors · Relational PostgreSQL schemas for courses, users & activity logs · Cloud-hosted DB · Automated email notifications via N8N |
-| [**🌾 Precision Farming Assistant**](https://github.com/prem970/Agro) | `React` · `N8N` · `MongoDB` · `Flutter` | RAG-powered chatbot for context-aware farming advice · N8N workflow automation for data pipelines & APIs · PDF & database knowledge retrieval · Crop management, soil health & irrigation recommendations |
+| [**🎯 Smart Face Attendance System**](https://github.com/prem970/smart-face-attendance-system) | `Python` · `OpenCV` · `YOLOv8` · `CNN` · `ResNet50` | ResNet50 face embeddings + YOLOv8 real-time detection |
+| [**📚 E-Learning Platform**](https://github.com/prem970/Odoo/tree/main) | `React` · `Node.js` · `Express` · `PostgreSQL` | Responsive UI for learners & instructors · Relational PostgreSQL schema |
+| [**🌾 Precision Farming Assistant**](https://github.com/prem970/Agro) | `React` · `N8N` · `MongoDB` · `Flutter` | RAG-powered chatbot for context-aware farming advice · N8N workflow automation |
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════[...]-->
 <!--  SECTION 12 │ ACHIEVEMENTS & COMPETITIVE PROGRAMMING                          -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════[...]-->
 
 ## 🎖️ Achievements & Competitive Programming
 
 <div align="center">
 
-| 🏅 | Achievement | Details |
-|:--:|:------------|:--------|
-| 🥇 | **Hack Smart Hackathon — 1st Prize** | 36-hour hackathon conducted at KIT-CBE |
-| 🥇 | **Code Wars 2.0 — 1st Prize** | Park College of Engineering & Technology |
-| 🥇 | **Code It — 1st Prize** | Sri RamaKrishna Institute of Technology |
-| 🥇 | **Vibecode Arena — 1st Prize** | New Challenge Creator Category |
-| 💻 | **LeetCode** | Max Rating **1600** · **550+** solved · Top **31.86%** globally · Highest Rank **#6,934** · 3 Badges |
-| ⚡ | **Codeforces** | Max Rating **1056** · **25** problems · Highest Rank **#3,238** (Round 1075 Div. 2) |
-| 🍴 | **CodeChef** | Max Rating **1554** | DSA Rating **1804**| · ⭐⭐ · **750+** problems · Highest Rank **#1,083** (Starters 221 Div. 3) · Global **#20,839** |
-| ☁️ | **Azure AI Apps and Agent Developer 
-Associate** | Microsoft · 2026 |
-| ☁️ | **AWS Certified Cloud Practitioner** | Amazon Web Services · 2025 |
-| 🤖 | **Google AI Professional Certificate** | 2026 |
-| 🔷 | **Deloitte Technology Job Simulation** | 2025 |
-| 🔷 | **AWS  AI  Practitioner Challenges ** | 2025 |
-| 🔷 | **AMD – AI Agents 101: Building AI Agents With MCP** | 2026 |
-| ☕ | **NPTEL — Programming in Java** | Silver + Elite · 2025 |
-| 🐍 | **NPTEL — Problem Solving using C** | 2025 |
+<table>
+  <tr>
+    <th>🏅</th>
+    <th>Achievement</th>
+    <th>Details</th>
+  </tr>
+  <tr>
+    <td>🥇</td>
+    <td><b>Hack Smart Hackathon — 1st Prize</b></td>
+    <td>36-hour hackathon conducted at KIT-CBE</td>
+  </tr>
+  <tr>
+    <td>🥇</td>
+    <td><b>Code Wars 2.0 — 1st Prize</b></td>
+    <td>Park College of Engineering &amp; Technology</td>
+  </tr>
+  <tr>
+    <td>🥇</td>
+    <td><b>Code It — 1st Prize</b></td>
+    <td>Sri RamaKrishna Institute of Technology</td>
+  </tr>
+  <tr>
+    <td>🥇</td>
+    <td><b>Vibecode Arena — 1st Prize</b></td>
+    <td>New Challenge Creator Category</td>
+  </tr>
+  <tr>
+    <td>💻</td>
+    <td><b>LeetCode</b></td>
+    <td>Max Rating <b>1600</b> · <b>550+</b> solved · Top <b>31.86%</b> globally · Highest Rank <b>#6,934</b> · 3 Badges</td>
+  </tr>
+  <tr>
+    <td>⚡</td>
+    <td><b>Codeforces</b></td>
+    <td>Max Rating <b>1056</b> · <b>25</b> problems · Highest Rank <b>#3,238</b> (Round 1075 Div. 2)</td>
+  </tr>
+  <tr>
+    <td>🍴</td>
+    <td><b>CodeChef</b></td>
+    <td>Max Rating <b>1554</b> | DSA Rating <b>1804</b> · ⭐⭐ · <b>750+</b> problems · Highest Rank <b>#1,083</b> (Starters 221 Div. 3) · Global <b>#20,839</b></td>
+  </tr>
+  <tr>
+    <td>☁️</td>
+    <td><b>Azure AI Apps and Agent Developer Associate</b></td>
+    <td>Microsoft · 2026</td>
+  </tr>
+  <tr>
+    <td>☁️</td>
+    <td><b>AWS Certified Cloud Practitioner</b></td>
+    <td>Amazon Web Services · 2025</td>
+  </tr>
+  <tr>
+    <td>🤖</td>
+    <td><b>Google AI Professional Certificate</b></td>
+    <td>2026</td>
+  </tr>
+  <tr>
+    <td>🔷</td>
+    <td><b>Deloitte Technology Job Simulation</b></td>
+    <td>2025</td>
+  </tr>
+  <tr>
+    <td>🔷</td>
+    <td><b>AWS AI Practitioner Challenges</b></td>
+    <td>2025</td>
+  </tr>
+  <tr>
+    <td>🔷</td>
+    <td><b>AMD – AI Agents 101: Building AI Agents With MCP</b></td>
+    <td>2026</td>
+  </tr>
+  <tr>
+    <td>☕</td>
+    <td><b>NPTEL — Programming in Java</b></td>
+    <td>Silver + Elite · 2025</td>
+  </tr>
+  <tr>
+    <td>🐍</td>
+    <td><b>NPTEL — Problem Solving using C</b></td>
+    <td>2025</td>
+  </tr>
+</table>
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════[...]-->
 <!--  SECTION 13 │ EDUCATION + CURRENTLY LEARNING + FOOTER                        -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════[...]-->
 
 ## 🎓 Education
 
