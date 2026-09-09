@@ -24,7 +24,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Building+AI+for+the+Real+World;AI%2FML+%7C+GenAI+%7C+Automation;Turning+Ideas+Into+Products)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Building+AI+for+the+Real+World;AI%2FML+Engineer+%7C+Full+Stack+Dev;4x+Hackathon+Winner+%7C+Gen+AI+Intern;LeetCode+Top+31.86%25+%7C+550%2B+Problems+Solved)](https://git.io/typing-svg)
 
 </div>
 
