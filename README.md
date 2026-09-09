@@ -24,7 +24,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Building+AI+for+the+Real+World;AI%2FML+Engineer+%7C+Full+Stack+Dev;4x+Hackathon+Winner+%7C+Gen+AI+Intern;LeetCode+Top+12.42%25+%7C+550%2B+Problems+Solved)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Building+AI+for+the+Real+World;AI%2FML+Engineer+%7C+Full+Stack+Dev;3x+Hackathon+Winner+%7C+Gen+AI+Intern;LeetCode+Top+12.42%25+%7C+650%2B+Problems+Solved)](https://git.io/typing-svg)
 
 </div>
 
@@ -230,12 +230,16 @@ me.say_hi()
 | 🥇 | **Vibecode Arena — 1st Prize** | New Challenge Creator Category |
 | 💻 | **LeetCode** | Max Rating **1600** · **550+** solved · Top **31.86%** globally · Highest Rank **#6,934** · 3 Badges |
 | ⚡ | **Codeforces** | Max Rating **1056** · **25** problems · Highest Rank **#3,238** (Round 1075 Div. 2) |
-| 🍴 | **CodeChef** | Max Rating **1505** · ⭐⭐ · **650+** problems · Highest Rank **#1,083** (Starters 221 Div. 3) · Global **#42,147** |
+| 🍴 | **CodeChef** | Max Rating **1554** | DSA Rating **1804**| · ⭐⭐ · **750+** problems · Highest Rank **#1,083** (Starters 221 Div. 3) · Global **#20,839** |
+| ☁️ | **Azure AI Apps and Agent Developer 
+Associate** | Microsoft · 2026 |
 | ☁️ | **AWS Certified Cloud Practitioner** | Amazon Web Services · 2025 |
+| 🤖 | **Google AI Professional Certificate** | 2026 |
+| 🔷 | **Deloitte Technology Job Simulation** | 2025 |
+| 🔷 | **AWS  AI  Practitioner Challenges ** | 2025 |
+| 🔷 | **AMD – AI Agents 101: Building AI Agents With MCP** | 2026 |
 | ☕ | **NPTEL — Programming in Java** | Silver + Elite · 2025 |
 | 🐍 | **NPTEL — Problem Solving using C** | 2025 |
-| 🔷 | **Deloitte Technology Job Simulation** | 2025 |
-| 🤖 | **Google AI Professional Certificate** | 2026 |
 
 </div>
 
@@ -251,7 +255,7 @@ me.say_hi()
 
 | Degree | Institution | Year | Score |
 |:-------|:-----------|:----:|:-----:|
-| **B.E. CSE — Artificial Intelligence & Machine Learning** | KIT-Kalaignarkarunanidhi Institute of Technology, Coimbatore | 2024 – 2028 | **8.2 / 10.0 CGPA** |
+| **B.E. CSE — Artificial Intelligence & Machine Learning** | KIT-Kalaignarkarunanidhi Institute of Technology, Coimbatore | 2024 – 2028 | **8.12 / 10.0 CGPA** |
 
 </div>
 
