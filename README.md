@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Prem%20P&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&d[...] 
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Prem%20P&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%2F%20ML%20Engineer&descAlignY=51&descSize=18)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=prem970&label=Profile+Views&color=70a5fd&style=flat-square)](https://github.com/prem970)
 &nbsp;
@@ -18,21 +18,21 @@
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════[...]-[...]
+<!-- ═══════════════════════════════════════════════════════════════[...]-->
 <!--  SECTION 2 │ TYPING HEADER                                                     -->
-<!-- ═══════════════════════════════════════════════════════════════[...]-[...]
+<!-- ═══════════════════════════════════════════════════════════════[...]-->
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Building+AI+for+the+Real+World[...]
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Building+AI+for+the+Real+World;AI%2FML+%7C+GenAI+%7C+Automation;Turning+Ideas+Into+Products)](https://git.io/typing-svg)
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════[...]-[...]
+<!-- ═══════════════════════════════════════════════════════════════[...]-->
 <!--  SECTION 3 │ CODE-BLOCK ABOUT ME                                              -->
-<!-- ═══════════════════════════════════════════════════════════════[...]-[...]
+<!-- ═══════════════════════════════════════════════════════════════[...]-->
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
@@ -67,9 +67,9 @@ me.say_hi()
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════[...]-[...]
+<!-- ═══════════════════════════════════════════════════════════════[...]-->
 <!--  SECTION 4 │ TECH BADGES                                                      -->
-<!-- ═══════════════════════════════════════════════════════════════[...]-[...]
+<!-- ═══════════════════════════════════════════════════════════════[...]-->
 
 ## 🛠️ Tech Stack
 
@@ -113,40 +113,40 @@ me.say_hi()
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════[...]-[...]
+<!-- ═══════════════════════════════════════════════════════════════[...]-->
 <!--  SECTION 5 & 6 │ GITHUB STATS + TOP LANGUAGES (side by side)                 -->
-<!-- ═══════════════════════════════════════════════════════=[...]-[...]
+<!-- ═══════════════════════════════════════════════════════════════[...]-->
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
 <a href="https://github.com/prem970">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=prem970&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d111[...]
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=prem970&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9" />
 </a>
 <a href="https://github.com/prem970">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prem970&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9[...]
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prem970&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9" />
 </a>
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════[...]-[...]
+<!-- ═══════════════════════════════════════════════════════════════[...]-->
 <!--  SECTION 7 │ STREAK STATS                                                     -->
-<!-- ═══════════════════════════════════════════════════════════════=[...]-[...]
+<!-- ═══════════════════════════════════════════════════════════════[...]-->
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=prem970&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B94[...]
+[![GitHub Streak](https://streak-stats.demolab.com?user=prem970&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=FFFFFF)](https://git.io/streak-stats)
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════[...]-[...]
+<!-- ═══════════════════════════════════════════════════════════════[...]-->
 <!--  SECTION 8 │ ACTIVITY GRAPH                                     -->
-<!-- ═══════════════════════════════════════════════════════=[...]-[...]
+<!-- ═══════════════════════════════════════════════════════════════[...]-->
 
 <div align="center">
 
@@ -154,9 +154,9 @@ me.say_hi()
 
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════=[...]-[...]
+<!-- ═══════════════════════════════════════════════════════════════[...]-->
 <!--  SECTION 9 │ TROPHY WALL                                                      -->
-<!-- ═══════════════════════════════════════════════════════=[...]-[...]
+<!-- ═══════════════════════════════════════════════════════════════[...]-->
 
 ## 🏆 GitHub Trophies
 
@@ -168,9 +168,9 @@ me.say_hi()
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════=[...]-[...]
+<!-- ═══════════════════════════════════════════════════════════════[...]-->
 <!--  SECTION 10 │ WORK EXPERIENCE                                                 -->
-<!-- ═════════════════════════════════════════════════════=[...]-[...]
+<!-- ═══════════════════════════════════════════════════════════════[...]-->
 
 ## 💼 Work Experience
 
@@ -196,9 +196,9 @@ me.say_hi()
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════=[...]-[...]
+<!-- ═══════════════════════════════════════════════════════════════[...]-->
 <!--  SECTION 11 │ FEATURED PROJECTS                                               -->
-<!-- ═════════════════════════════════════════════════════════════=[...]-[...]
+<!-- ═══════════════════════════════════════════════════════════════[...]-->
 
 ## 🚀 Featured Projects
 
@@ -206,17 +206,17 @@ me.say_hi()
 
 | Project | Stack | Highlights |
 |:--------|:------|:-----------|
-| [**🎯 Smart Face Attendance System**](https://github.com/prem970/smart-face-attendance-system) | `Python` · `OpenCV` · `YOLOv8` · `CNN` · `ResNet50` | ResNet50 face embeddings + YOLOv8 re[...]
-| [**📚 E-Learning Platform**](https://github.com/prem970/Odoo/tree/main) | `React` · `Node.js` · `Express` · `PostgreSQL` | Responsive UI for learners & instructors · Relational PostgreSQL[...]
-| [**🌾 Precision Farming Assistant**](https://github.com/prem970/Agro) | `React` · `N8N` · `MongoDB` · `Flutter` | RAG-powered chatbot for context-aware farming advice · N8N workflow autom[...]
+| [**🎯 Smart Face Attendance System**](https://github.com/prem970/smart-face-attendance-system) | `Python` · `OpenCV` · `YOLOv8` · `CNN` · `ResNet50` | ResNet50 face embeddings + YOLOv8 real-time detection |
+| [**📚 E-Learning Platform**](https://github.com/prem970/Odoo/tree/main) | `React` · `Node.js` · `Express` · `PostgreSQL` | Responsive UI for learners & instructors · Relational PostgreSQL schema |
+| [**🌾 Precision Farming Assistant**](https://github.com/prem970/Agro) | `React` · `N8N` · `MongoDB` · `Flutter` | RAG-powered chatbot for context-aware farming advice · N8N workflow automation |
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════=[...]-[...]
+<!-- ═══════════════════════════════════════════════════════════════[...]-->
 <!--  SECTION 12 │ ACHIEVEMENTS & COMPETITIVE PROGRAMMING                          -->
-<!-- ═════════════════════════════════════════════════════════════=[...]-[...]
+<!-- ═══════════════════════════════════════════════════════════════[...]-->
 
 ## 🎖️ Achievements & Competitive Programming
 
@@ -309,9 +309,9 @@ me.say_hi()
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════=[...]-[...]
+<!-- ═══════════════════════════════════════════════════════════════[...]-->
 <!--  SECTION 13 │ EDUCATION + CURRENTLY LEARNING + FOOTER                        -->
-<!-- ═════════════════════════════════════════════════════════════=[...]-[...]
+<!-- ═══════════════════════════════════════════════════════════════[...]-->
 
 ## 🎓 Education
 
@@ -320,7 +320,6 @@ me.say_hi()
 | Degree | Institution | Year | Score |
 |:-------|:-----------|:----:|:-----:|
 | **B.E. CSE — Artificial Intelligence & Machine Learning** | KIT-Kalaignarkarunanidhi Institute of Technology, Coimbatore | 2024 – 2028 | **8.12 / 10.0 CGPA** |
-| **Nano Degree** | Udaicity | Aug 2026–Nov 2026 | - |
 
 </div>
 
